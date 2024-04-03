@@ -2,7 +2,7 @@
 <!-- メインビジュアルを載せる -->
 <!-- 概要を書く -->
 
-## DEMO
+<!-- ## DEMO -->
 <!-- 動画を載せる -->
 
 ## Slide
@@ -19,15 +19,6 @@
 - Prettier
 - Husky
 - lint-staged
-
-## System Configuration
-<!-- システム構成図を載せる -->
-
-## Directory Structure
-<!-- ディレクトリ構成図を載せる -->
-
-## Requirements
-<!-- 必要条件を書く -->
 
 ## Installation
 <!-- インストール方法・コマンドを書く -->
